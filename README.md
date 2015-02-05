@@ -15,3 +15,26 @@ The data is taken from the website: http://www.imd.gov.in/section/nhac/mean/Mumb
 
 ![final](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/final.pdf)
 
+![jan](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/jan.png)
+
+![feb](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/feb.png)
+
+![mar](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/mar.png)
+
+![apr](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/apr.png)
+
+![may](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/may.png)
+
+![jun](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/jun.png)
+
+![jul](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/jul.png)
+
+![aug](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/aug.png)
+
+![sep](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/sep.png)
+
+![oct](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/oct.png)
+
+![nov](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/nov.png)
+
+![dec](https://github.com/baisampayans/consolidated_v2_alternate_colors/blob/master/images/dec.png)
